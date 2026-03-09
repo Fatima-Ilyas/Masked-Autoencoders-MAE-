@@ -1,0 +1,10 @@
+import torch
+import gradio as gr
+from torchvision import transforms
+from PIL import Image
+import numpy as np
+
+torch
+gradio
+torchvision
+Pillow
